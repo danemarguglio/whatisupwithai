@@ -1,0 +1,17 @@
+# Hugo default output directory
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+
+# Hugo lock file
+hugo_stats.json
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+*~
