@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://danemarguglio.github.io/whatisupwithai/'
 languageCode = 'en-us'
 title = 'What is up with AI?'
 theme = 'PaperMod'
